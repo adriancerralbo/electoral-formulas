@@ -1,5 +1,5 @@
 package electoralFormulas;
 
 public enum EnumFormulas {
-	HUNTINGTON_HILL
+	HUNTINGTON_HILL, WEBSTER, DHONDT
 }
