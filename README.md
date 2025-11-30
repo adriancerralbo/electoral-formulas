@@ -1,5 +1,7 @@
 # Electoral formulas
-A Java project which implements methods to implement electoral formulas.
+A Java project which implements methods to compute electoral formulas.
+
+- [x] Huntington-Hill
 
 ---
 
